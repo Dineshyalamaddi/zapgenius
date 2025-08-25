@@ -1,0 +1,79 @@
+[
+  {
+    "user_id": "user_001",
+    "app_name": "Google Sheets",
+    "action": "Update row",
+    "timestamp": "2025-07-24T09:45:00",
+    "frequency": 8,
+    "category": "Data Management",
+    "platform": "Web",
+    "context": "Daily sales reporting",
+    "used_with_apps": ["Slack", "Gmail"]
+  },
+  {
+    "user_id": "user_001",
+    "app_name": "Slack",
+    "action": "Send message",
+    "timestamp": "2025-07-24T10:00:00",
+    "frequency": 15,
+    "category": "Communication",
+    "platform": "Web",
+    "context": "Team notifications",
+    "used_with_apps": ["Google Sheets", "Jira"]
+  },
+  {
+    "user_id": "user_001",
+    "app_name": "Trello",
+    "action": "Create card",
+    "timestamp": "2025-07-23T14:30:00",
+    "frequency": 5,
+    "category": "Project Management",
+    "platform": "Web",
+    "context": "Task creation from support tickets",
+    "used_with_apps": ["Gmail", "Slack"]
+  },
+  {
+    "user_id": "user_001",
+    "app_name": "Gmail",
+    "action": "Label email",
+    "timestamp": "2025-07-22T13:15:00",
+    "frequency": 10,
+    "category": "Communication",
+    "platform": "Web",
+    "context": "Customer feedback categorization",
+    "used_with_apps": ["Google Sheets", "Trello"]
+  },
+  {
+    "user_id": "user_001",
+    "app_name": "Airtable",
+    "action": "Add record",
+    "timestamp": "2025-07-21T11:00:00",
+    "frequency": 4,
+    "category": "Database",
+    "platform": "Web",
+    "context": "New leads entry",
+    "used_with_apps": ["Slack", "Google Sheets"]
+  },
+  {
+    "user_id": "user_001",
+    "app_name": "Notion",
+    "action": "Create page",
+    "timestamp": "2025-07-20T16:20:00",
+    "frequency": 3,
+    "category": "Documentation",
+    "platform": "Web",
+    "context": "Meeting notes",
+    "used_with_apps": ["Google Calendar", "Slack"]
+  },
+  {
+    "user_id": "user_001",
+    "app_name": "Google Calendar",
+    "action": "Create event",
+    "timestamp": "2025-07-19T08:10:00",
+    "frequency": 6,
+    "category": "Scheduling",
+    "platform": "Web",
+    "context": "Client meetings",
+    "used_with_apps": ["Notion", "Slack"]
+  }
+]

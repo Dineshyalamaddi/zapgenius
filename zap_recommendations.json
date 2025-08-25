@@ -1,0 +1,22 @@
+[
+  {
+    "Zap": "Email Alert",
+    "Score": 0.4206
+  },
+  {
+    "Zap": "Slack Notification",
+    "Score": 0.3675
+  },
+  {
+    "Zap": "Google Sheets Update",
+    "Score": 0.3483
+  },
+  {
+    "Zap": "CRM Update",
+    "Score": 0.3132
+  },
+  {
+    "Zap": "Calendar Event",
+    "Score": 0.2634
+  }
+]

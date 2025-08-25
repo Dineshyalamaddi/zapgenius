@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "title": "Save Gmail attachments to Google Drive",
+    "description": "Automatically save all attachments received in Gmail to a specified Google Drive folder.",
+    "apps": ["Gmail", "Google Drive"],
+    "tags": ["email", "cloud storage", "backup"]
+  },
+  {
+    "id": 2,
+    "title": "Send Slack notifications for new Google Calendar events",
+    "description": "Whenever a new Google Calendar event is created, post a notification in a Slack channel.",
+    "apps": ["Google Calendar", "Slack"],
+    "tags": ["communication", "calendar", "team"]
+  },
+  {
+    "id": 3,
+    "title": "Add new Typeform responses to Google Sheets",
+    "description": "Log every new Typeform submission into a Google Sheets spreadsheet for easy data analysis.",
+    "apps": ["Typeform", "Google Sheets"],
+    "tags": ["forms", "spreadsheets", "data collection"]
+  },
+  {
+    "id": 4,
+    "title": "Create Trello cards from new Gmail emails",
+    "description": "Convert important Gmail emails into Trello tasks automatically.",
+    "apps": ["Gmail", "Trello"],
+    "tags": ["email", "task management", "productivity"]
+  },
+  {
+    "id": 5,
+    "title": "Post tweets automatically from RSS feeds",
+    "description": "Whenever a new RSS feed item is published, automatically post it as a tweet on Twitter.",
+    "apps": ["RSS", "Twitter"],
+    "tags": ["social media", "content", "automation"]
+  },
+  {
+    "id": 6,
+    "title": "Send new Google Form responses to Discord",
+    "description": "Get instant Discord notifications whenever a new response is submitted in Google Forms.",
+    "apps": ["Google Forms", "Discord"],
+    "tags": ["forms", "notifications", "community"]
+  },
+  {
+    "id": 7,
+    "title": "Create Asana tasks from Slack messages",
+    "description": "Turn important Slack messages into actionable tasks in Asana with one automation.",
+    "apps": ["Slack", "Asana"],
+    "tags": ["project management", "communication", "tasks"]
+  },
+  {
+    "id": 8,
+    "title": "Add Shopify orders to a Google Sheets report",
+    "description": "Automatically log every Shopify order into Google Sheets for reporting and analytics.",
+    "apps": ["Shopify", "Google Sheets"],
+    "tags": ["ecommerce", "spreadsheets", "analytics"]
+  },
+  {
+    "id": 9,
+    "title": "Backup new Dropbox files to OneDrive",
+    "description": "Automatically back up any new file in Dropbox into a OneDrive folder.",
+    "apps": ["Dropbox", "OneDrive"],
+    "tags": ["backup", "cloud storage", "productivity"]
+  },
+  {
+    "id": 10,
+    "title": "Send reminders in Slack for upcoming Google Calendar events",
+    "description": "Stay on top of meetings by sending Slack reminders before events start.",
+    "apps": ["Slack", "Google Calendar"],
+    "tags": ["calendar", "team", "reminders"]
+  },
+  {
+    "id": 11,
+    "title": "Send a thank-you email via Gmail for new Google Form submissions",
+    "description": "Automatically thank people with a Gmail email after they submit a Google Form.",
+    "apps": ["Google Forms", "Gmail"],
+    "tags": ["email", "forms", "customer experience"]
+  },
+  {
+    "id": 12,
+    "title": "Add new LinkedIn leads to HubSpot CRM",
+    "description": "Whenever a new lead is captured on LinkedIn, automatically add them to HubSpot CRM.",
+    "apps": ["LinkedIn", "HubSpot"],
+    "tags": ["sales", "CRM", "leads"]
+  },
+  {
+    "id": 13,
+    "title": "Create Jira issues from GitHub commits",
+    "description": "When a GitHub commit includes certain keywords, automatically create a Jira issue.",
+    "apps": ["GitHub", "Jira"],
+    "tags": ["developer tools", "project management", "tasks"]
+  },
+  {
+    "id": 14,
+    "title": "Send Google Sheet updates to Microsoft Teams",
+    "description": "Whenever a row is added or updated in Google Sheets, post the update in Teams.",
+    "apps": ["Google Sheets", "Microsoft Teams"],
+    "tags": ["spreadsheets", "communication", "team"]
+  },
+  {
+    "id": 15,
+    "title": "Send daily weather updates via Telegram",
+    "description": "Get automatic daily weather reports delivered to a Telegram chat.",
+    "apps": ["Weather API", "Telegram"],
+    "tags": ["notifications", "weather", "personal"]
+  },
+  {
+    "id": 16,
+    "title": "Add new Airtable records to Notion",
+    "description": "Sync Airtable records to a Notion database for unified knowledge management.",
+    "apps": ["Airtable", "Notion"],
+    "tags": ["knowledge base", "database", "productivity"]
+  },
+  {
+    "id": 17,
+    "title": "Send a WhatsApp message for new Google Calendar events",
+    "description": "Get a WhatsApp message whenever a new event is added to your Google Calendar.",
+    "apps": ["Google Calendar", "WhatsApp"],
+    "tags": ["calendar", "communication", "personal"]
+  },
+  {
+    "id": 18,
+    "title": "Create GitLab issues from new Zendesk tickets",
+    "description": "Turn incoming Zendesk support tickets into GitLab issues for developers.",
+    "apps": ["Zendesk", "GitLab"],
+    "tags": ["support", "developer tools", "tasks"]
+  },
+  {
+    "id": 19,
+    "title": "Log new Twitter mentions in Google Sheets",
+    "description": "Automatically add new Twitter mentions to a Google Sheet for monitoring engagement.",
+    "apps": ["Twitter", "Google Sheets"],
+    "tags": ["social media", "monitoring", "spreadsheets"]
+  },
+  {
+    "id": 20,
+    "title": "Add new Stripe payments to QuickBooks",
+    "description": "Whenever a payment is processed in Stripe, log it in QuickBooks automatically.",
+    "apps": ["Stripe", "QuickBooks"],
+    "tags": ["finance", "accounting", "payments"]
+  }
+]
