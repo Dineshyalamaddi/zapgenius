@@ -15,15 +15,19 @@ It analyzes repetitive actions and provides intelligent recommendations to save 
 
 ## 📂 Project Structure
 zapgenius/
-│── data/
-│ └── sample_user_data.json # Example user activity data
-│── src/
-│ ├── embedding_model.py # Embedding model for text similarity
-│ ├── recommender.py # Rule-based + embedding-based recommender
-│── zapgenius_demo.ipynb # Jupyter notebook demo
-│── zapgenius_demo.py # Streamlit app entry point
-│── requirements.txt # Project dependencies
-│── README.md # Project documentation
+├── data/
+│   └── sample_user_data.json
+├── src/
+│   ├── embedding_model.py
+│   └── recommender.py
+├── zaps/
+│   └── zap_database.json
+├── zapgenius_demo.ipynb
+├── zapgenius_demo.py
+├── zapgenius_streamlit.py
+├── requirements.txt
+├── zap_recommendations.json
+└── README.md
 
 ---
 
