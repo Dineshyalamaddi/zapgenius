@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 3. Run the Streamlit app
 
-streamlit run zapgenius_demo.py
+streamlit run zapgenius_streamlit.py
 
 🧪 Usage
 
